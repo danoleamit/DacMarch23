@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author danol
+ *
+ */
+module Ass {
+}
